@@ -9,7 +9,7 @@ export const site = {
   email: '399349314@qq.com',
   intro: '2007 年参加工作，2012 年开始网页设计，2016 年转型 UI 设计，2023 年起自主经营工作室。擅长从商务对接、需求梳理到 UI 设计、开发协作与项目测试，独立完成小程序、APP、网站、PC、B 端后台与大屏可视化的 0-1 全链路交付。',
   availability: '寻求资深产品设计 / UI 设计机会',
-  heroNote: '10+ 互联网设计，跨网页‑移动端，兼具前端与管理能力，\n可独立完成商业项目 0‑1 全链路交付。',
+  heroNote: '10+ 互联网设计，跨网页‑移动端，兼具前端与管理能力，可独立完成商业项目 0‑1 全链路交付。',
   resumeLabel: '简历 / 索取 PDF',
   socials: [
     { label: 'Behance', href: 'https://www.behance.net/' },

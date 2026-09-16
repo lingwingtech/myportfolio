@@ -378,7 +378,7 @@ body { background: var(--bg); color: var(--ink); }
   .reference-work-filters .work-filters::-webkit-scrollbar { display: none; }
   .reference-work-filters .work-filters button { flex: 0 0 auto; }
   .work-page-row { padding: 30px 0; }
-  .reference-selected-work { padding: 92px 0; }
+  .reference-selected-work { padding: 46px 0 92px; }
   .selected-work-card-grid { grid-template-columns: 1fr; gap: 28px; margin-top: 34px; }
   .selected-work-card-meta { grid-template-columns: minmax(0, 1fr) auto; }
   .reference-projects-grid { margin-top: 40px; }
@@ -389,7 +389,7 @@ body { background: var(--bg); color: var(--ink); }
   .other-design-lightbox-content { max-width: 100%; max-height: calc(100vh - 58px); }
   .other-design-lightbox img, .other-design-lightbox video { max-height: calc(100vh - 58px); }
   .other-design-lightbox-navigation { right: 14px; left: 14px; }
-  .other-design-lightbox-nav { width: 30px; height: 40px; }
+  .other-design-lightbox-nav { width: 40px; min-width: 40px; height: 40px; flex: 0 0 40px; }
   .other-design-lightbox-close { top: 14px; right: 14px; width: 40px; height: 40px; }
   .selected-work-heading { padding-bottom: 28px; }
   .selected-work-row { grid-template-columns: 30px minmax(0, 1fr) 18px; gap: 10px; padding: 28px 0; }
